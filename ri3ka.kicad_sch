@@ -21340,7 +21340,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 416.56 237.49 0)
 			(effects
 				(font
@@ -24830,7 +24830,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical"
 			(at 467.36 209.55 0)
 			(effects
 				(font
@@ -28494,28 +28494,28 @@
 			)
 		)
 		(pin "4"
-			(uuid "0a95305e-8f73-40d5-8e75-781b51b5ad65")
+			(uuid "0a95305e-8f73-40d5-8e75-781b51b5ad66")
 		)
 		(pin "2"
-			(uuid "536897fd-886d-49b0-b336-a67b650b1ec5")
+			(uuid "536897fd-886d-49b0-b336-a67b650b1ec6")
 		)
 		(pin "8"
-			(uuid "b65644fd-d200-46ef-b89c-914be500437e")
+			(uuid "b65644fd-d200-46ef-b89c-914be500437f")
 		)
 		(pin "3"
-			(uuid "96587c2c-5e9e-493b-b0ae-b3f43d6066dc")
+			(uuid "96587c2c-5e9e-493b-b0ae-b3f43d6066dd")
 		)
 		(pin "7"
-			(uuid "9a8a0e17-4b79-468f-9c48-3550a39c45fa")
+			(uuid "9a8a0e17-4b79-468f-9c48-3550a39c45fb")
 		)
 		(pin "1"
-			(uuid "5f854fba-66ec-400c-b376-7d8e7f0c5175")
+			(uuid "5f854fba-66ec-400c-b376-7d8e7f0c5176")
 		)
 		(pin "5"
-			(uuid "182c30fd-0841-44a5-a952-2ff56eb37cac")
+			(uuid "182c30fd-0841-44a5-a952-2ff56eb37cad")
 		)
 		(pin "6"
-			(uuid "678a9342-3ff3-4c5d-953e-35e0f1544dd0")
+			(uuid "678a9342-3ff3-4c5d-953e-35e0f1544dd1")
 		)
 		(instances
 			(project ""
@@ -31477,16 +31477,16 @@
 			(uuid "b104064d-8a6e-411f-a5c0-39540bfb06ff")
 		)
 		(pin "1"
-			(uuid "595b3e2d-a0fb-4bca-9657-8647b3a7fa9f")
+			(uuid "595b3e2d-a0fb-4bca-9657-8647b3a7faa1")
 		)
 		(pin "3"
 			(uuid "fbeaff4a-0961-47a2-b66a-b14124ff4def")
 		)
 		(pin "2"
-			(uuid "295dba28-51af-4886-9405-3cfee24fa158")
+			(uuid "295dba28-51af-4886-9405-3cfee24fa15a")
 		)
 		(pin "6"
-			(uuid "b3680447-44d6-490d-8d9c-cb22a268e968")
+			(uuid "b3680447-44d6-490d-8d9c-cb22a268e96a")
 		)
 		(pin "4"
 			(uuid "8900fd7a-0518-485f-baac-85e1a4b579eb")
@@ -33593,7 +33593,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical"
 			(at 453.39 261.62 0)
 			(effects
 				(font
@@ -36198,7 +36198,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 402.59 289.56 0)
 			(effects
 				(font
@@ -37067,16 +37067,16 @@
 			(uuid "408ced95-7b86-48a7-b069-af0fbe30c96d")
 		)
 		(pin "1"
-			(uuid "595b3e2d-a0fb-4bca-9657-8647b3a7fa9f")
+			(uuid "595b3e2d-a0fb-4bca-9657-8647b3a7faa2")
 		)
 		(pin "3"
 			(uuid "49e344ba-19c7-4abe-b08f-471daea23c07")
 		)
 		(pin "2"
-			(uuid "295dba28-51af-4886-9405-3cfee24fa158")
+			(uuid "295dba28-51af-4886-9405-3cfee24fa15b")
 		)
 		(pin "6"
-			(uuid "b3680447-44d6-490d-8d9c-cb22a268e968")
+			(uuid "b3680447-44d6-490d-8d9c-cb22a268e96b")
 		)
 		(pin "4"
 			(uuid "9b4a0789-6069-4368-99e1-a89c9c9afda0")
